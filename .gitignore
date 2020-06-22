@@ -1,4 +1,5 @@
 .idea
 Decorator_Pattern.iml
 *.class
-target/
+target
+target/test-classes
